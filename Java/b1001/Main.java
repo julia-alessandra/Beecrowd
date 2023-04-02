@@ -1,7 +1,9 @@
-public import java.util.Scanner;
-        
+package Java.b1001;
+
+import java.util.Scanner;
+
 public class Main {
-    public static void main(String[] args){
+    public static void main(String[] args) {
         int a;
         int b;
         Scanner input = new Scanner(System.in);
@@ -12,5 +14,6 @@ public class Main {
         int x = a + b;
         
         System.out.println("X = " + x);
+        input.close();
     }
 }
