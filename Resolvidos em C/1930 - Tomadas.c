@@ -7,9 +7,7 @@ int main() {
         scanf("%i", &tomadas[i]);
         total += tomadas[i];
     }
-    
     total = total-3;
-    
     printf("%i\n", total);
  
     return 0;

@@ -377,6 +377,24 @@
                 </td>
             </tr>
             <tr>
+             <td align="left">1021 - Notas e Moedas</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/1021%20-%20Notas%20e%20Moedas.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
               <td align="left">1035 - Teste de Seleção 1</td>
                 <td align="center">
                     <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/1035%20-%20Teste%20de%20Sele%C3%A7%C3%A3o%201.c">
@@ -498,7 +516,7 @@
                 </td>
                 <td align="center">
                     <a href="#">
-                        <img src="#"></img>
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                 </td>
             </tr>
@@ -880,6 +898,24 @@
                     </a>
                 </td>
             </tr>
+            <tr>             
+              <td align="left">1930 - Tomadas</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/1930%20-%20Tomadas.c">
+                    <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
              <td align="left">1985 - MacPRONALTS</td>
                 <td align="center">
@@ -969,10 +1005,101 @@
                 </td>
             </tr>
           <tr>
+                      <tr>     
+             <td align="left">2581 - I am Toorg!</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2581%20-%20I%20am%20Toorg!.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+          <tr>
             <tr>     
              <td align="left">2670 - Máquina de Café</td>
                 <td align="center">
                     <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2670%20-%20M%C3%A1quina%20de%20Caf%C3%A9.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>     
+             <td align="left">2717 - Tempo do Duende</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2717%20-%20Tempo%20do%20Duende.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>     
+             <td align="left">2747 - Saída 1</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2747%20-%20Sa%C3%ADda%201.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>     
+             <td align="left">2748 - Saída 2</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2748%20-%20Sa%C3%ADda%202.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>     
+             <td align="left">2749 - Saída 3</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2749%20-%20Sa%C3%ADda%203.c">
                         <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
@@ -1040,10 +1167,118 @@
                     </a>
                 </td>
             </tr>
+            <tr>   
+             <td align="left">2850 - Papagaio Poliglota</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2850%20-%20Papagaio%20Poliglota.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>   
+             <td align="left">2861 - A Saída</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2861%20-%20A%20Sa%C3%ADda.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>   
+             <td align="left">2862 - Inseto!</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2862%20-%20Inseto!.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
             <tr>
              <td align="left">2936 - Quanta Mandioca?</td>
                 <td align="center">
                     <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2936%20-%20Quanta%20Mandioca.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">2950 - As Duas Torres</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2950%20-%20As%20Duas%20Torres.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">2982 - A Greve Para ou Continua</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2982%20-%20A%20Greve%20para%20ou%20Continua.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">2987 - Balão de Honra</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2987%20-%20Bal%C3%A3o%20de%20Honra.c">
                         <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
@@ -1098,6 +1333,168 @@
              <td align="left">3055 - Nota Esquecida</td>
                 <td align="center">
                     <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/3055%20-%20Nota%20Esquecida.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">3091 - Resto 1.0</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/3091%20-%20Resto%201.0.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">3145 -  Uma Jornada Inesperada</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/3145%20-%20Uma%20Jornada%20Inesperada.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">3147 - A Batalha dos Cinco Exércitos</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/3147%20-%20A%20Batalha%20dos%20Cinco%20Ex%C3%A9rcitos.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">3157 - Viva a Ciência!</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/3157%20-%20Viva%20a%20Ci%C3%AAncia!.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">3301 - Sobrinho do Meio</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/3301%20-%20Sobrinho%20do%20Meio.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">3302 - Resposta Certa</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/3302%20-%20Resposta%20Certa.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">3302 - Resposta Certa</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/3302%20-%20Resposta%20Certa.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">3303 - Palavrão</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/3303%20-%20Palavr%C3%A3o.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>
+             <td align="left">3209 - Tomadas Elétricas.c</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/3209%20-%20Tomadas%20El%C3%A9tricas.c">
                         <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
@@ -1241,6 +1638,24 @@
                     </a>
                 </td>
             </tr>
+            <tr>     
+             <td align="left">3477 - Baú Danificado</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/3477%20-%20Ba%C3%BA%20Danificado.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
         </table>
      </div>
 </details>
@@ -1329,7 +1744,7 @@
                 </td>
                 <td align="center">
                     <a href="#">
-                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png></img>
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
                     </a>
                 </td>
             </tr>
@@ -1337,6 +1752,24 @@
              <td align="left">2356 - Bactéria 1</td>
                 <td align="center">
                     <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2356%20-%20Bact%C3%A9ria%201.c">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+                <td align="center">
+                    <a href="#">
+                        <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/invisivel.png"></img>
+                    </a>
+                </td>
+            </tr>
+            <tr>     
+             <td align="left">2484 - Abracadabra</td>
+                <td align="center">
+                    <a href="https://github.com/julia-alessandra/Beecrowd/blob/main/Resolvidos%20em%20C/2484%20-%20Abracadabra.c">
                         <img src="https://github.com/julia-alessandra/Beecrowd/blob/main/icons/olho.png"></img>
                     </a>
                 </td>
@@ -1486,8 +1919,6 @@
 ## 📱 Contato:
 
 <div align="left">
-    <a href="https://github.com/julia-alessandra" target="blank"><img align="center" src="https://github.com/rahuldkjain/github-profile-readme-generator/blob/master/src/images/icons/Social/github.svg" height="30" width="40" />
-    </a>
     <a href="https://www.linkedin.com/in/j%C3%BAlia-alessandra-399236266/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" height="30" width="40" />
     </a>
     <a href="https://judge.beecrowd.com/pt/profile/646408" target="blank"><img align="center" src="https://www.beecrowd.com.br/judge/favicon.ico?1635097036" height="40" width="40" />
